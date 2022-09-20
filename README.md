@@ -16,6 +16,25 @@
  이렇게 분석된 데이터를 기반으로 어디서 불량품이 발생하였는지, 이상 징후가 보이는 설비는 어떤 것인지 등을 인공지능이 파악하여 전체적인 공정을 제어합니다.
  제가 가고싶은 꿈의 회사는 Sk하이닉스와 삼성전기 그리고 볼보 입니다. 제가 취득하고싶은 자격증은 전기기사와 기계정비산업기사 생산자동화산업기사 입니다.
 
+
+
+@@ -8,7 +8,9 @@
+    "test:watch" : " jest --watch " ,
+    "theme-readme-gen" : " node scripts/generate-theme-doc " ,
+    "미리보기 테마" : " 노드 스크립트/미리보기 테마 " ,
+    "generate-langs-json" : " 노드 스크립트/generate-langs-json "
+    "generate-langs-json" : " 노드 스크립트/generate-langs-json " ,
+    "예쁜:check:ci" : " ./node_modules/.bin/prettier --check . " ,
+    "예쁜:형식" : " ./node_modules/.bin/prettier --write . "
+  },
+  "저자" : " Anurag Hazra " ,
+  "라이센스" : " MIT " ,
+
+
+
+
+
+
 <!---
 Jiiihuv/Jiiihuv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
