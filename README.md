@@ -17,6 +17,11 @@
  제가 가고싶은 꿈의 회사는 Sk하이닉스와 삼성전기 그리고 볼보 입니다. 제가 취득하고싶은 자격증은 전기기사와 기계정비산업기사 생산자동화산업기사 입니다.
 
 
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 
 
 ! [ Anurag's GitHub stats ] ( https://github-readme-stats.vercel.app/api?username = 사용자ID & show_icons = true & theme = 급진적 )
