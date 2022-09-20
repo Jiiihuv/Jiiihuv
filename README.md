@@ -19,9 +19,10 @@
 
 |제목|내용|설명|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|int|float|complxe|str|
+|repr|eval|tuple|list|
+|set|dict|frozenset|chr|
+|unichr|ord|hex|oct|
 
 
 ! [ Anurag's GitHub stats ] ( https://github-readme-stats.vercel.app/api?username = 사용자ID & show_icons = true & theme = 급진적 )
