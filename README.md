@@ -18,17 +18,6 @@
 
 
 
-@@ -8,7 +8,9 @@
-    "test:watch" : " jest --watch " ,
-    "theme-readme-gen" : " node scripts/generate-theme-doc " ,
-    "미리보기 테마" : " 노드 스크립트/미리보기 테마 " ,
-    "generate-langs-json" : " 노드 스크립트/generate-langs-json "
-    "generate-langs-json" : " 노드 스크립트/generate-langs-json " ,
-    "예쁜:check:ci" : " ./node_modules/.bin/prettier --check . " ,
-    "예쁜:형식" : " ./node_modules/.bin/prettier --write . "
-  },
-  "저자" : " Anurag Hazra " ,
-  "라이센스" : " MIT " ,
 
 
 
