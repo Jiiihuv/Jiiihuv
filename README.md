@@ -4,6 +4,8 @@
 ### - 학력: 창원기계공업고등학교(졸업),창원폴리텍대학교(재학)
 #### - 자격증: 전기기능사
 
+![header](https://capsule-render.vercel.app/api?height=400&text=Hi%20MynameisGangHyeon&desc=Hi%20capsule%20render)
+```
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
