@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20GangHyeon!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![20220710_000826](https://user-images.githubusercontent.com/112458984/195771802-7e2e3b8c-0337-43fa-98ea-35d9321df53d.jpg)
+
 
 # - 이름:탁강현
 ## - 나이:26세(만25세)
@@ -8,7 +11,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiiihuv&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <p align="center">
