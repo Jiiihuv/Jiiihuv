@@ -3,6 +3,42 @@
 ### - 출신:포항
 ### - 학력: 창원기계공업고등학교(졸업),창원폴리텍대학교(재학)
 #### - 자격증: 전기기능사
+
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
+</p>
+
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
+
 # - 자기소개서
 ### - 안녕하세요 저는 창원에 살고있는 탁강현입니다. 
  저는 2남중 장남으로 포항에 태어나 포항에서 어린시절을 보내다가 고등학교때 창원으로 와서
@@ -17,6 +53,7 @@
  제가 가고싶은 꿈의 회사는 Sk하이닉스와 삼성전기 그리고 볼보 입니다. 제가 취득하고싶은 자격증은 전기기사와 기계정비산업기사 생산자동화산업기사 입니다.
  그리고 제가 얼마전에 지게차기능사 필기에 합격을하여 실기를 준비중입니다.
 
+## - 아래의 표는 제가 파이썬을 공부하고 만들어본 표입니다
 
 |함수|함수|함수|함수|
 |-----|-----|-----|-----|
@@ -24,16 +61,6 @@
 |repr|eval|tuple|list|
 |set|dict|frozenset|chr|
 |unichr|ord|hex|oct|
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
-
-
 
 <!---
 Jiiihuv/Jiiihuv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
