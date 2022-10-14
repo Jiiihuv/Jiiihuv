@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
-```
+
 # - 이름:탁강현
 ## - 나이:26세(만25세)
 ### - 출신:포항
