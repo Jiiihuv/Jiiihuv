@@ -1,9 +1,5 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
+![header](https://capsule-render.vercel.app/api?height=400&text=Hi%20My name is Gang Hyeon&desc=Hi%20capsule%20render)
 ```
-> You can't use some Special Characters. Like '#', '&', '/' ... 
->
-
-
 # - 이름:탁강현
 ## - 나이:26세(만25세)
 ### - 출신:포항
