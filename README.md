@@ -15,6 +15,7 @@
  스마트 팩토리에서는 공장 곳곳에 사물인터넷(IoT) 센서와 카메라를 부착시켜 데이터를 수집하고 플랫폼에 저장해 분석하는데,
  이렇게 분석된 데이터를 기반으로 어디서 불량품이 발생하였는지, 이상 징후가 보이는 설비는 어떤 것인지 등을 인공지능이 파악하여 전체적인 공정을 제어합니다.
  제가 가고싶은 꿈의 회사는 Sk하이닉스와 삼성전기 그리고 볼보 입니다. 제가 취득하고싶은 자격증은 전기기사와 기계정비산업기사 생산자동화산업기사 입니다.
+ 그리고 제가 얼마전에 지게차기능사 필기에 합격을하여 실기를 준비중입니다.
 
 
 |함수|함수|함수|함수|
@@ -27,7 +28,7 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiihuvicons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganghyeontag357@gmail.com=true&theme=radical)
 
 
 <!---
