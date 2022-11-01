@@ -68,4 +68,4 @@
 Jiiihuv/Jiiihuv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[AI 제어 실습 프로젝트 계획.pptx](https://github.com/Jiiihuv/Jiiihuv/files/9899038/AI.pptx)
+
