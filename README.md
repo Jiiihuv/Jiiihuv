@@ -64,6 +64,10 @@
 |set|dict|frozenset|chr|
 |unichr|ord|hex|oct|
 
+## -머신러닝을 통하는 AI 제어실습과일감 만들기 
+
+[AI제어실습 9조 과제-2.pptx](https://github.com/Jiiihuv/Jiiihuv/files/10214255/AI.9.-2.pptx)
+
 https://youtube.com/@jihun7920
 <!---
 Jiiihuv/Jiiihuv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
